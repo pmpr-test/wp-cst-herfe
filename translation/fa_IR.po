@@ -1,0 +1,1128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr Custom Herfe\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-07-28 21:27+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: build\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: asset\n"
+"X-Poedit-SearchPathExcluded-4: build\n"
+
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:38
+msgid "Advertise"
+msgstr "تبلیغ"
+
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:160
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:122
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:98
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:136
+msgid "Advertiser"
+msgstr "تبلیغ دهنده"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:20
+msgid "Advertisers"
+msgstr "تبلیغ‌ دهندگان"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
+msgid "Advertiser post type"
+msgstr "نوع نوشته تبلیغ دهنده"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:115
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:90
+msgid "Advertiser Metadata"
+msgstr "متادیتا‌های تبلیغ دهنده"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:119
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:102
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:94
+#: src/Pmpr/Custom/Herfe/Setting.php:126
+msgid "General"
+msgstr "عمومی"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:123
+msgid "Users"
+msgstr "کاربران"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:149
+#, php-format
+msgid ""
+"User %s is already connected to another advertiser named %s. can not add to "
+"another advertiser."
+msgstr ""
+"کاربر %s پیش از این به تبلیغ‌کننده دیگری به نام %s متصل شده است. نمی‌توان به "
+"تبلیغ‌کننده دیگری متصل کرد."
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:153
+#, php-format
+msgid "More Information About %s"
+msgstr "اطلاعات بیشتر درباره %s"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:154
+#, php-format
+msgid "%s's Social Accounts"
+msgstr "شبکه‌های اجتماعی %s"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:155
+#, php-format
+msgid "%s's Information"
+msgstr "اطلاعات %s"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:170
+msgid "Items"
+msgstr "آیتم‌ها‌"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:173
+msgid "Title"
+msgstr "عنوان"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:177
+msgid "Icon"
+msgstr "آیکون"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:191
+msgid "Contact Information"
+msgstr "اطلاعات تماس"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:196
+msgid "Type"
+msgstr "نوع"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:198
+msgid "Link"
+msgstr "پیوند"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:199
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:31
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:174
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:104
+msgid "Phone"
+msgstr "شماره تماس"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:200
+msgid "Email"
+msgstr "ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:201
+msgid "Hours"
+msgstr "ساعات کاری"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:202
+msgid "Location"
+msgstr "مکان"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:206
+msgid "Value"
+msgstr "مقدار"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:220
+msgid "Social Accounts"
+msgstr "شبکه‌های اجتماعی"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:226
+msgid "Url"
+msgstr "پیوند"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:241
+msgid "Logo"
+msgstr "لوگو"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:245
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:105
+msgid "Address"
+msgstr "آدرس"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:248
+msgid "Map Location Url"
+msgstr "لینک موقعیت مکانی"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:22
+msgid "Events"
+msgstr "رویداد‌ها"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:23
+msgid "Event"
+msgstr "رویداد"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:24
+msgid "Event post type"
+msgstr "نوع نوشته رویداد"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:98
+msgid "Event Metadata"
+msgstr "متادیتا‌های رویداد"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:107
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:123
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:23
+msgid "Gallery"
+msgstr "گالری"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:22
+msgid "Galleries"
+msgstr "گالری‌ها"
+
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:24
+msgid "Gallery post type"
+msgstr "نوع نوشته گالری"
+
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:27
+msgid "English Articles"
+msgstr "نوشته‌های انگلیسی"
+
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:28
+msgid "English Article"
+msgstr "نوشته انگلیسی"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:26
+msgid "Magazines"
+msgstr "فصلنامه‌ها"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:27
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
+#: src/Pmpr/Custom/Herfe/Setting.php:121
+msgid "Magazine"
+msgstr "فصلنامه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:118
+msgid "Description"
+msgstr "شرح"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:182
+msgid "List is empty."
+msgstr "لیست خالی است."
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:258
+#, php-format
+msgid "Issue number %s already used for %s, please use another number."
+msgstr ""
+"شماره %s در حال حاضر برای %s استفاده شده است، لطفا شماره دیگری را برگزینید."
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
+#, php-format
+msgid "There are currently no products in this %s"
+msgstr "در حال حاضر محصولی در این %s وجود ندارد"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:26
+msgid "Article Category"
+msgstr "دسته‌بندی‌ مقاله"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:455
+#: src/Pmpr/Custom/Herfe/Page/AbstractVisualAuditory.php:28
+msgid "All"
+msgstr "همه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:469
+msgid "Buy a Printed Copy"
+msgstr "خرید نسخه چاپی"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:501
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:573
+msgid "Issue Number"
+msgstr "شماره"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:502
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
+msgid "Medium"
+msgstr "رسانه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:503
+msgid "Related Product"
+msgstr "محصول مرتبط"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:504
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:555
+msgid "Products"
+msgstr "محصولات"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:505
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:547
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:583
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:25
+msgid "Article Categories"
+msgstr "دسته‌بندی‌های مقاله"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:538
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:18
+msgid "Mediums"
+msgstr "رسانه‌ها"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:569
+msgid "Magazine Metadata"
+msgstr "متادیتا‌های فصل‌نامه"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
+#, php-format
+msgid "Physical Medium (%s)"
+msgstr "نسخه چاپی (%s)"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
+msgid "Product"
+msgstr "محصول"
+
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
+#, php-format
+msgid "This Issue Articles (%s)"
+msgstr "مقالات این شماره (%s)"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:44
+#: src/Pmpr/Custom/Herfe/Page/VisualAuditory.php:22
+msgid "Visual & Auditory"
+msgstr "دیداری شنیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:47
+msgid "Status"
+msgstr "وضعیت"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:49
+msgid "None"
+msgstr "هیچکدام"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:50
+#: src/Pmpr/Custom/Herfe/Page/Visual.php:23
+msgid "Visual"
+msgstr "دیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:51
+#: src/Pmpr/Custom/Herfe/Page/Auditory.php:23
+msgid "Auditory"
+msgstr "شنیداری"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:57
+msgid "Hashure Product ID"
+msgstr "شناسه محصول در هاشور"
+
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:58
+msgid ""
+"To insert the Hashure product ID (and not, for example, the screen product)."
+msgstr "جهت درج شناسه محصول هاشور (و نه مثلا محصول اکرانی)"
+
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:27
+msgid "Article Category for products"
+msgstr "دسته‌بندی مقاله برای محصولات"
+
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:141
+msgid "Frontend Title"
+msgstr "عنوان نمایشی"
+
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:142
+msgid "Leave empty if you want use default title."
+msgstr "اگر می‌خواهید از عنوان پیش‌فرض استفاده شود، این فیلد را خالی رها کنید."
+
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:146
+msgid "Render Priority"
+msgstr "ترتیب نمایش"
+
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:20
+msgid "Medium for magazines"
+msgstr "رسانه فصلنامه‌ها"
+
+#: src/Pmpr/Custom/Herfe/CTX/Tag.php:24
+msgid "Image"
+msgstr "تصویر"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:45
+#: src/Pmpr/Custom/Herfe/Setting.php:103
+msgid "View in Hashure"
+msgstr "مشاهده در هاشور"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:59
+msgid "No response was received from Hashur, please try again."
+msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره تلاش کنید."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
+msgid "It looks like your subscription has expired."
+msgstr "به نظر می‌رسد اشتراک شما به پایان رسیده است."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:35
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:38
+#, php-format
+msgid ""
+"Hashure functionality cannot be start until you enter your credentials in the "
+"%s."
+msgstr ""
+"تا زمانی که اطلاعات کاربری خود را در %s وارد نکنید، عملکرد هاشور غیرفعال "
+"خواهد بود."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Hashure.php:41
+#, php-format
+msgid ""
+"We are unable to connect to the hashure service, please check the user "
+"information you have entered in the %s."
+msgstr ""
+"قادر به ارتباط با سرویس هاشور نیستیم، لطفا اطلاعات کاربری که در%s  وارد "
+"کرده‌اید را بررسی کنید."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:31
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:85
+msgid "Connecting to hashure..."
+msgstr "در حال اتصال به هاشور..."
+
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:32
+msgid "Try Again"
+msgstr "تلاش مجدد"
+
+#: src/Pmpr/Custom/Herfe/Herfe.php:25
+msgid "Herfe Custom"
+msgstr "کد سفارشی حرفه هنرمند"
+
+#: src/Pmpr/Custom/Herfe/Page/LatestMagazine.php:24
+msgid "Latest Magazine"
+msgstr "آخرین فصلنامه‌"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:49
+msgid "Herfe Setting"
+msgstr "تنظیمات سفارشی"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:59
+msgid "Subscription"
+msgstr "اشتراک"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:61
+msgid "Subscription Configuration"
+msgstr "پیکربندی اشتراک"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:64
+msgid "Access"
+msgstr "دسترسی"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:68
+msgid "Blog First Visit"
+msgstr "اولین بازدید از وبلاگ"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:69
+msgid ""
+"By enable this option, Users and visitors can access to blog posts in first "
+"visit."
+msgstr ""
+"با فعال کردن این گزینه، کاربران و بازدیدکنندگان می توانند در اولین بازدید به "
+"نوشته‌های وب‌نامه دسترسی داشته باشند."
+
+#: src/Pmpr/Custom/Herfe/Setting.php:75
+msgid "Hashure"
+msgstr "هاشور"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:77
+msgid "Hashure Configuration"
+msgstr "پیکربندی هاشور"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:80
+msgid "Authentication"
+msgstr "احراز هویت"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:84
+msgid "Username"
+msgstr "نام کاربری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:88
+msgid "Password"
+msgstr "گذرواژه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:93
+msgid "Hashure Products"
+msgstr "محصولات هاشوری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:97
+msgid "Message"
+msgstr "پیام"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:98
+msgid ""
+"This message show on top of hashure products single, for users that has not "
+"access to hashure videos."
+msgstr ""
+"این پیام در بالای محصولات هاشوری، به کاربرانی که دسترسی لارم برای مشاهده "
+"ویدیو‌ها را ندارند، نمایش داده می‌شود."
+
+#: src/Pmpr/Custom/Herfe/Setting.php:102
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:107
+msgid "Button Behavior"
+msgstr "رفتار دکمه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:108
+msgid "Open in Current Tab"
+msgstr "باز کردن در زبانه جاری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:109
+msgid "Open New Tab"
+msgstr "باز کردن در زبانه جدید"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:113
+msgid "Link to"
+msgstr "لینک به"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:114
+msgid "Play Movie"
+msgstr "پخش فیلم"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:115
+msgid "Movie Page"
+msgstr "صفحه فیلم"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:123
+msgid "Magazine Configuration"
+msgstr "پیکربندی فصلنامه"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:130
+msgid "Avoid Duplicate Data Entry"
+msgstr "پیشگیری از داده تکراری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:131
+msgid ""
+"Check this item. if you want avoid duplicate issue number and article "
+"category assignment."
+msgstr ""
+"اگر می‌خواهید مانع ورود شماره و دسته‌بندی تکراری شوید، این گزینه را فعال کنید."
+
+#: src/Pmpr/Custom/Herfe/Setting.php:136
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:140
+msgid "Sidebar - Desktop Limit"
+msgstr "آیتم‌های سایدبار - دسکتاپ"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:145
+msgid "Sidebar - Mobile Limit"
+msgstr "آیتم‌های سایدبار - موبایل"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:150
+msgid "Products  Limit"
+msgstr "محصولات"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:156
+msgid "Messages"
+msgstr "پیام‌ها"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:160
+msgid "Empty Single"
+msgstr "پیام خالی سینگل"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:164
+msgid "Empty Category"
+msgstr "پیام دسته‌بندی خالی"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:169
+msgid "Archive"
+msgstr "آرشیو"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:173
+msgid "Physical Medium"
+msgstr "رسانه چاپی"
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:53
+msgid "Your email verified successfully."
+msgstr "ایمیل شما با موفقیت تایید شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:56
+msgid "Something wrong on verification email, please try again."
+msgstr "مشکلی در فرآیند تایید ایمیل به وجود آمده است، لطفا دوباره امتحان کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:60
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:156
+msgid "Your entered code is not correct."
+msgstr "کد وارد شده صحیح نیست."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:66
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:162
+#, php-format
+msgid "Code entered incorrect more than 5 times, %s."
+msgstr "کد بیش از 5 بار نادرست وارد شده است، %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:70
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:166
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:163
+#, php-format
+msgid "Verification code expired, %s."
+msgstr "کد تأیید منقضی شده است، %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:78
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:174
+msgid "Verification Code"
+msgstr "کد تایید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:82
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:112
+msgid "Request is not from a logging user."
+msgstr "درخواست از سمت کاربر بدون سشن است."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:103
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:199
+msgid "New verification code send to your email."
+msgstr "کد تأیید جدیدی برای ایمیل شما ارسال شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:108
+msgid "You dont need email verification, please refresh the page."
+msgstr "شما نیازی به تایید ایمیل ندارید، لطفا صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:178
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:208
+msgid ""
+"Your verification code is expired, use your email to reset your password."
+msgstr ""
+"کد تأیید شما منقضی شده است، از ایمیل خود برای بازنشانی رمز عبور استفاده کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:204
+msgid "Something wrong, please refresh the page."
+msgstr "مشکلی وجود دارد، لطفاً صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Checkout.php:33
+#, php-format
+msgid "Your account not verified, please %s first."
+msgstr "حساب کاربری شما تایید نشده است، لطفا ابتدا %s."
+
+#: src/Pmpr/Custom/Herfe/Verification/Checkout.php:35
+msgid "verify your account"
+msgstr "حساب کاربری خود را تایید کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:169
+#, php-format
+msgid "The validity period of the code is until %s, Tehran time"
+msgstr "مدت اعتبار کد تا %s  به وقت تهران"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:32
+msgid "Verify Your Email Address"
+msgstr "آدرس ایمیل خود را تأیید کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:34
+#, php-format
+msgid "Verify Your Email Address on %s"
+msgstr "آدرس ایمیل خود را در %s تأیید کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:47
+msgid "Verify Reset Password"
+msgstr "تایید بازنشانی رمز عبور"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:49
+#, php-format
+msgid "Verify Reset Password on %s"
+msgstr "تأیید بازنشانی رمز عبور در %s"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:114
+msgid "Email Verification"
+msgstr "تایید ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:116
+#, php-format
+msgid "Enter below code on %s."
+msgstr "کد زیر را در سایت %s وارد کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:119
+msgid ""
+"Also, instead of using the above code, you can just click on the link below."
+msgstr ""
+"همچنین، به جای استفاده از کد فوق میتوانید تنها بر  روی لینک زیر کلیک کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:124
+msgid "Verify Email Now"
+msgstr "تایید ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:145
+#, php-format
+msgid "You can use below code on %s to reset your password."
+msgstr "برای بازنشانی رمز عبور خود می توانید از کد زیر در %s استفاده کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:53
+msgid "Sing up email verification"
+msgstr "تایید ایمیل ثبت‌نام"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:83
+msgid "Password reset verification"
+msgstr "تأیید بازنشانی رمز عبور"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:97
+msgid "Confirm access to the email address"
+msgstr "تایید دسترسی به آدرس ایمیل"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:111
+#, php-format
+msgid "%s-digits code"
+msgstr "کد %s رقمی"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:112
+#, php-format
+msgid "Enter %s-digits code"
+msgstr "کد %s رقمی را وارد کنید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:117
+msgid "Verify Code"
+msgstr "تأیید کد"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:126
+#, php-format
+msgid "A %s-digit code was sent to the email address below."
+msgstr "یک کد %s رقمی به آدرس ایمیل زیر ارسال شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:129
+msgid "Didn't receive an email?"
+msgstr "ایمیلی دریافت نکردید؟"
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:172
+msgid "Something is wrong, please refresh page."
+msgstr "مشکلی به وجود آمده است، لطفا صفحه را رفرش کنید."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:173
+msgid "Entered code is not valid."
+msgstr "کد وارد شده معتبر نیست."
+
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:187
+msgid "Send new code"
+msgstr "ارسال کد جدید"
+
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:35
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:59
+msgid "Your account verified successfully."
+msgstr "حساب شما با موفقیت تأیید شد."
+
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:63
+msgid "Your account already verified."
+msgstr "حساب شما قبلاً تأیید شده است."
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:100
+#, php-format
+msgid "Field %s is required!"
+msgstr "فلید %s ضروری است!"
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:111
+#, php-format
+msgid "Please enter at least %s characters for %s."
+msgstr "لطفا حداقل %s کاراکتر برای فیلد %s وارد کنید."
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:117
+msgid "Please enter a valid phone number."
+msgstr "لطفا یک شماره تلفن معتبر وارد کنید."
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:106
+msgid "Postcode"
+msgstr "کد پستی"
+
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:107
+msgid "Customer Note"
+msgstr "توضیحات تکمیلی"
+
+#~ msgid "Firstname"
+#~ msgstr "نام"
+
+#~ msgid "Lastname"
+#~ msgstr "نام خانوادگی"
+
+#~ msgid "National Code"
+#~ msgstr "کد ملی"
+
+#~ msgid "Failed Connecting to Hashure Message"
+#~ msgstr "پیام عدم اتصال به هاشور"
+
+#~ msgid "This message show to users, when when can not connect to hashure."
+#~ msgstr ""
+#~ "این پیام زمانی که اتصال به هاشور با مشکل مواجه می‌شود، به کاربران نمایش "
+#~ "داده خواهد شد."
+
+#~ msgid "It seems you are try to verify your email on %s."
+#~ msgstr "به نظر می رسد سعی می کنید ایمیل خود را در %s تأیید کنید."
+
+#~ msgid "Here is the verification code, use it to verify your email."
+#~ msgstr "با استفاده از کد زیر ایمیل خود را تایید کنید."
+
+#~ msgid "You can even verify your email by click the link below."
+#~ msgstr "شما می‌توانید با کلیک روی لینک زیر ایمیل خود را تایید کنید."
+
+#~ msgid ""
+#~ "We sent verification code to %s. To verify your email address, please "
+#~ "check your inbox and enter the code below."
+#~ msgstr ""
+#~ "ما کد تأیید را به %s ارسال کردیم. برای تأیید آدرس ایمیل، لطفا ایمیل خود را "
+#~ "بررسی کرده و کد ارسال شده را در فیلد زیر وارد کنید."
+
+#~ msgid "Tag:"
+#~ msgid_plural "Tags:"
+#~ msgstr[0] "برچسب‌ها:"
+#~ msgstr[1] "برچسب:"
+
+#~ msgid ""
+#~ "Can not login to hashure, with your entered credentials, please enter "
+#~ "valid username & password in the %s."
+#~ msgstr ""
+#~ "نمی‌توانید برای هشور وارد شوید، با اطلاعات کاربری وارد شده خود، لطفاً نام "
+#~ "کاربری و رمز عبور معتبر را در %s وارد کنید."
+
+#~ msgid "Play"
+#~ msgstr "پخش"
+
+#~ msgid "Product Category"
+#~ msgstr "دسته محصول"
+
+#~ msgid "Hashure Metadata"
+#~ msgstr "متادیتا‌های هاشور"
+
+#~ msgid "Product ID"
+#~ msgstr "شناسه محصول"
+
+#~ msgid "Product Button Link"
+#~ msgstr "لینک دکمه محصول"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Default"
+#~ msgstr "پیشفرض"
+
+#~ msgid "Single Empty Message"
+#~ msgstr "پیغام خالی بودن سینگل"
+
+#~ msgid "Category Empty Message"
+#~ msgstr "پیغام خالی بودن دسته‌بندی"
+
+#~ msgid "Archive Tab Title"
+#~ msgstr "عنوان تب آرشیو"
+
+#~ msgid "Archive Description"
+#~ msgstr "شرح آرشیو"
+
+#~ msgid "Include %s %s"
+#~ msgstr "شامل %s %s"
+
+#~ msgid "%s Contact Information"
+#~ msgstr "اطلاعات تماس %s"
+
+#, fuzzy
+#~| msgid "More Information"
+#~ msgid "Social Information"
+#~ msgstr "اطلاعات بیشتر"
+
+#~ msgid "Edit %s"
+#~ msgstr "ویرایش %s"
+
+#~ msgid "No %s found."
+#~ msgstr "%s یافت نشد."
+
+#~ msgid "Update %s"
+#~ msgstr "به روز رسانی %s"
+
+#~ msgid "Parent %s"
+#~ msgstr "والد %s"
+
+#~ msgid "Search %s"
+#~ msgstr "جستجوی %s"
+
+#~ msgid "Add New %s"
+#~ msgstr "افزودن %s جدید"
+
+#~ msgid "New %s"
+#~ msgstr "افزودن %s"
+
+#~ msgid "Popular %s"
+#~ msgstr "محبوب‌ترین %s"
+
+#~ msgid "Add or remove %s"
+#~ msgstr "افزودن یا حذف %s"
+
+#~ msgid "Choose from the most used %s"
+#~ msgstr "انتخاب از بین %s بیشتر انتخاب شده"
+
+#~ msgid "Separate %s with commas"
+#~ msgstr "%s را با کاما جدا کنید"
+
+#~ msgid "Attributes"
+#~ msgstr "ویژگی‌ها"
+
+#~ msgid "Taxonomies"
+#~ msgstr "تکسونومی‌ها"
+
+#~ msgid "Enable Taxonomy"
+#~ msgstr "فعال سازی تکسنومی"
+
+#~ msgid "Single value"
+#~ msgstr "تک مقداری"
+
+#~ msgid "Icon of taxonomy"
+#~ msgstr "آیکون تکسونومی"
+
+#~ msgid "Slug"
+#~ msgstr "نامک"
+
+#~ msgid "Taxonomy Name"
+#~ msgstr "نام تکسونومی"
+
+#~ msgid "Post Types"
+#~ msgstr "انواع نوشته"
+
+#~ msgid "Singular Name"
+#~ msgstr "نام منفرد"
+
+#~ msgid "Plural Name"
+#~ msgstr "نام جمع"
+
+#~ msgid "Subset of %s %s"
+#~ msgstr "زیر مجموعه‌ای از %s %s"
+
+#~ msgid "Icon Color"
+#~ msgstr "رنگ آیکون"
+
+#~ msgid "Company or Organization"
+#~ msgstr "شرکت یا سازمان"
+
+#~ msgid "Start date"
+#~ msgstr "تاریخ شروع"
+
+#~ msgid "End date"
+#~ msgstr "تاریخ پایان"
+
+#~ msgid "Services"
+#~ msgstr "خدمات"
+
+#~ msgid "Service"
+#~ msgstr "خدمت"
+
+#~ msgid "Extra Meta"
+#~ msgstr "متای بیشتر"
+
+#~ msgid "Other %s"
+#~ msgstr "%s دیگر"
+
+#~ msgid "basket of %s %s"
+#~ msgstr "سبد  %s %s"
+
+#~ msgid "Success Stories"
+#~ msgstr "داستان‌های موفقیت"
+
+#~ msgid "Success Story"
+#~ msgstr "داستان موفقیت"
+
+#~ msgid "Success story post type"
+#~ msgstr "نوع نوشته داستان موفقیت"
+
+#~ msgid "View Website"
+#~ msgstr "مشاهده وب‌سایت"
+
+#~ msgid "Buy"
+#~ msgstr "خرید"
+
+#~ msgid "on %s"
+#~ msgstr "در %s"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "Founder User"
+#~ msgstr "کاربر بنیانگذار"
+
+#~ msgid "Founder Name"
+#~ msgstr "نام بنیانگذار"
+
+#~ msgid "Business Name"
+#~ msgstr "نام کسب و کار"
+
+#~ msgid "Business URL"
+#~ msgstr "لینک کسب و کار (وب سایت)"
+
+#~ msgid "Video URL"
+#~ msgstr "لینک ویدیو"
+
+#~ msgid "Founder Avatar"
+#~ msgstr "آواتار بنیان گذار"
+
+#~ msgid "Business Logo"
+#~ msgstr "لگوی کسب و کار"
+
+#~ msgid "Business Description"
+#~ msgstr "شرح کسب و کار"
+
+#~ msgid "as he tells the story"
+#~ msgstr "را از زبان خودش بشنوید"
+
+#~ msgid "%s at"
+#~ msgstr "%s در"
+
+#~ msgid "in using %s"
+#~ msgstr "به کمک %s"
+
+#~ msgid "Success story of"
+#~ msgstr "داستان موفقیت"
+
+#~ msgid "Technologies"
+#~ msgstr "تکنولوژی"
+
+#~ msgid "Technology"
+#~ msgstr "تکنولوژی"
+
+#~ msgid "Technology post type"
+#~ msgstr "نوع نوشته تکنولوژی"
+
+#~ msgid "Show on footer"
+#~ msgstr "نمایش در فوتتر"
+
+#~ msgid "Post Levels"
+#~ msgstr "سطوح مقاله"
+
+#~ msgid "Post Level"
+#~ msgstr "سطح مقاله"
+
+#~ msgid "level for posts"
+#~ msgstr "سطح مقاله برای نوشته‌ها"
+
+#~ msgid "Modules"
+#~ msgstr "ماژول‌ها"
+
+#~ msgid "Show Logos"
+#~ msgstr "نمایش لگو"
+
+#, fuzzy
+#~| msgid "Team Title"
+#~ msgid "Badges Title"
+#~ msgstr "عنوان تیم"
+
+#~ msgid "Badges"
+#~ msgstr "نشان‌ها"
+
+#~ msgid "%s Client"
+#~ msgstr "%s مشتری"
+
+#~ msgid "From %s until today"
+#~ msgstr "از %s تا امروز"
+
+#~ msgid "Enable"
+#~ msgstr "فعال"
+
+#~ msgid "Anonymous users"
+#~ msgstr "کاربران ثبت نام نشده"
+
+#~ msgid "Layout"
+#~ msgstr "چینش صفحه"
+
+#~ msgid "Rating"
+#~ msgstr "امتیاز"
+
+#~ msgid "Dropdown"
+#~ msgstr "کر‌کره‌ای"
+
+#~ msgid "Licenses"
+#~ msgstr "مجوزها"
+
+#~ msgid "Content"
+#~ msgstr "محتوا"
+
+#~ msgid "Team"
+#~ msgstr "تیم"
+
+#~ msgid "Teams"
+#~ msgstr "تیم‌ها"
+
+#~ msgid "Team Title"
+#~ msgstr "عنوان تیم"
+
+#~ msgid "Manager"
+#~ msgstr "مدیر"
+
+#~ msgid "Select a user as manager"
+#~ msgstr "انتخاب مدیر"
+
+#~ msgid "Partners"
+#~ msgstr "همکاران"
+
+#~ msgid "Select some users as partners"
+#~ msgstr "انتخاب همکاران"
+
+#~ msgid "Who is"
+#~ msgstr "کیست"
+
+#~ msgid "Select user for show experience date in shortcode."
+#~ msgstr "برای نمایش میزان تجربه کاربر مورد نظر را انتخاب کنید."
+
+#~ msgid "%s Years"
+#~ msgstr "%s سال"
+
+#~ msgid "Who is %s?"
+#~ msgstr "%s کیست؟"
+
+#~ msgid "Consultation, Supervision, Implementation"
+#~ msgstr "مشاوره، نظارت و اجرا"
+
+#~ msgid "Member"
+#~ msgstr "عضو"
+
+#~ msgid "Experience"
+#~ msgstr "سابقه حرفه‌ای"
+
+#~ msgid "Badge"
+#~ msgstr "نشان"
+
+#~ msgid "License"
+#~ msgstr "مجوز"
+
+#~ msgid "Attribute Type"
+#~ msgstr "نوع ویژگی‌"
+
+#~ msgid "Normal"
+#~ msgstr "معمولی"
+
+#~ msgid "Show on Cart"
+#~ msgstr "نمایش در سبد خرید"
+
+#~ msgid "Top Feature"
+#~ msgstr "ویژگی برتر"
+
+#~ msgid "Dependencies"
+#~ msgstr "وابستگی‌ها"
+
+#~ msgid "Compositions"
+#~ msgstr "اجزا"
+
+#~ msgid "Enable Consent"
+#~ msgstr "فعال سازی توافقنامه"
+
+#~ msgid "Consent Content"
+#~ msgstr "محتوای توافقنامه"
+
+#~ msgid "Prerequisites"
+#~ msgstr "پیش نیازها"
+
+#~ msgid "Standards"
+#~ msgstr "استانداردها"
+
+#~ msgid "Cancel"
+#~ msgstr "انصراف"
+
+#~ msgid "My Components"
+#~ msgstr "کامپوننت‌های من"
+
+#~ msgid "My Orders"
+#~ msgstr "سفارش‌های من"
+
+#~ msgid "My Downloads"
+#~ msgstr "دانلود‌های من"
+
+#~ msgid "%s Ownership"
+#~ msgstr "%s مشتری"
+
+#~ msgid "- Close"
+#~ msgstr "- بستن"
+
+#~ msgid "+ More Items"
+#~ msgstr "+ موارد بیشتر"
+

@@ -1,0 +1,8 @@
+<h2 class="email-heading">{{ title|raw }}</h2>
+<div class="code-text">{{ code_text|raw }}</div>
+<code class="verify-code">{{ verify_code|raw }}</code>
+<div class="code-expire">{{ expiration|raw }}</div>
+<div class="link-text">{{ link_text|raw }}</div>
+<a href="{{ verify_link|esc_attr }}" class="email-button">
+    {{ verify_link_text|raw }}
+</a>

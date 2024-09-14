@@ -1,0 +1,22 @@
+<div class="text-center">
+    <div class="mb-5">
+        {{ render_icon(icon, {class: 'icon-xxl mx-auto mb-2'}, 1) }}
+        <strong class="h4">{{ title|raw }}</strong>
+    </div>
+    <div class="my-5">
+        {{ message|raw }}
+        <div class="h6 my-2">{{ email|raw }}</div>
+        <div class="expiration">
+            {{ expiration|raw }}
+        </div>
+    </div>
+    {% for field in fields %}
+        {{ field|call('render')|raw }}
+    {% endfor %}
+    {{ render_frontend_spinner() }}
+    <div class="mt-5">
+        {{ not_receive_message|raw }}
+        {{ try_again_link|raw }}
+    </div>
+</div>
+

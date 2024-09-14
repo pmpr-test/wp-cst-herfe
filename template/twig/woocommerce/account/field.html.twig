@@ -1,0 +1,4 @@
+<p class="woocommerce-form-row woocommerce-form-row--wide form-row-wide">
+    {{ render_if_has_content('label', {for: attrs.id}, label) }}
+    <input {{ attrs|parse_attrs|raw }}>
+</p>
