@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Custom Herfe\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2024-07-28 21:27+0330\n"
+"POT-Creation-Date: 2024-10-22 02:37+0330\n"
 "PO-Revision-Date: \n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
 "_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 3.4.3\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 "X-Poedit-SearchPathExcluded-1: build\n"
@@ -25,43 +25,43 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-3: asset\n"
 "X-Poedit-SearchPathExcluded-4: build\n"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:38
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:42
 msgid "Advertise"
 msgstr "تبلیغ"
 
-#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:160
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:122
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:98
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:136
+#: src/Pmpr/Custom/Herfe/Advertise/Advertise.php:164
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:123
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:99
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:137
 msgid "Advertiser"
 msgstr "تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:20
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:21
 msgid "Advertisers"
 msgstr "تبلیغ‌ دهندگان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:23
 msgid "Advertiser post type"
 msgstr "نوع نوشته تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:115
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:90
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:116
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:91
 msgid "Advertiser Metadata"
 msgstr "متادیتا‌های تبلیغ دهنده"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:119
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:102
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:94
-#: src/Pmpr/Custom/Herfe/Setting.php:126
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:120
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:103
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:95
+#: src/Pmpr/Custom/Herfe/Setting.php:80 src/Pmpr/Custom/Herfe/Setting.php:147
 msgid "General"
 msgstr "عمومی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:123
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:124
 msgid "Users"
 msgstr "کاربران"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:149
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Advertiser.php:150
 #, php-format
 msgid ""
 "User %s is already connected to another advertiser named %s. can not add to "
@@ -70,287 +70,268 @@ msgstr ""
 "کاربر %s پیش از این به تبلیغ‌کننده دیگری به نام %s متصل شده است. نمی‌توان به "
 "تبلیغ‌کننده دیگری متصل کرد."
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:153
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:155
 #, php-format
 msgid "More Information About %s"
 msgstr "اطلاعات بیشتر درباره %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:154
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:156
 #, php-format
 msgid "%s's Social Accounts"
 msgstr "شبکه‌های اجتماعی %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:155
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:157
 #, php-format
 msgid "%s's Information"
 msgstr "اطلاعات %s"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:170
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:172
 msgid "Items"
 msgstr "آیتم‌ها‌"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:173
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:175
 msgid "Title"
 msgstr "عنوان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:177
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:179
 msgid "Icon"
 msgstr "آیکون"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:191
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:193
 msgid "Contact Information"
 msgstr "اطلاعات تماس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:196
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:198
 msgid "Type"
 msgstr "نوع"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:198
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:200
 msgid "Link"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:199
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:31
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:174
-#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:104
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:201
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:34
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:177
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:107
 msgid "Phone"
 msgstr "شماره تماس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:200
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:202
 msgid "Email"
 msgstr "ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:201
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:203
 msgid "Hours"
 msgstr "ساعات کاری"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:202
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:204
 msgid "Location"
 msgstr "مکان"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:206
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:208
 msgid "Value"
 msgstr "مقدار"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:220
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:222
 msgid "Social Accounts"
 msgstr "شبکه‌های اجتماعی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:226
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:228
 msgid "Url"
 msgstr "پیوند"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:241
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:243
 msgid "Logo"
 msgstr "لوگو"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:245
-#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:105
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:247
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:108
 msgid "Address"
 msgstr "آدرس"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:248
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Common.php:250
 msgid "Map Location Url"
 msgstr "لینک موقعیت مکانی"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:23
 msgid "Events"
 msgstr "رویداد‌ها"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:23
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:24
 msgid "Event"
 msgstr "رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:24
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:25
 msgid "Event post type"
 msgstr "نوع نوشته رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:98
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:99
 msgid "Event Metadata"
 msgstr "متادیتا‌های رویداد"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:107
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:123
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:23
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:108
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Event.php:124
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:24
 msgid "Gallery"
 msgstr "گالری"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:22
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:23
 msgid "Galleries"
 msgstr "گالری‌ها"
 
-#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:24
+#: src/Pmpr/Custom/Herfe/Advertise/CPT/Gallery.php:25
 msgid "Gallery post type"
 msgstr "نوع نوشته گالری"
 
-#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:27
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:29
 msgid "English Articles"
 msgstr "نوشته‌های انگلیسی"
 
-#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:28
+#: src/Pmpr/Custom/Herfe/CPT/EnglishArticle.php:30
 msgid "English Article"
 msgstr "نوشته انگلیسی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:26
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:28
 msgid "Magazines"
 msgstr "فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:27
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
-#: src/Pmpr/Custom/Herfe/Setting.php:121
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:29
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:396
+#: src/Pmpr/Custom/Herfe/Setting.php:142
 msgid "Magazine"
 msgstr "فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:118
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:120
 msgid "Description"
 msgstr "شرح"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:182
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:188
 msgid "List is empty."
 msgstr "لیست خالی است."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:258
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:263
 #, php-format
 msgid "Issue number %s already used for %s, please use another number."
 msgstr ""
 "شماره %s در حال حاضر برای %s استفاده شده است، لطفا شماره دیگری را برگزینید."
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:391
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:396
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:408
 #, php-format
 msgid "There are currently no products in this %s"
 msgstr "در حال حاضر محصولی در این %s وجود ندارد"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:403
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:26
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:408
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:28
 msgid "Article Category"
 msgstr "دسته‌بندی‌ مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:455
-#: src/Pmpr/Custom/Herfe/Page/AbstractVisualAuditory.php:28
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:460
+#: src/Pmpr/Custom/Herfe/Herfe.php:105
 msgid "All"
 msgstr "همه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:469
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:474
 msgid "Buy a Printed Copy"
 msgstr "خرید نسخه چاپی"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:501
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:573
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:506
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
 msgid "Issue Number"
 msgstr "شماره"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:502
-#: src/Pmpr/Custom/Herfe/CTX/Medium.php:19
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:507
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:22
 msgid "Medium"
 msgstr "رسانه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:503
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:508
 msgid "Related Product"
 msgstr "محصول مرتبط"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:504
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:555
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:509
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:560
 msgid "Products"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:505
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:547
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:583
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:25
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:510
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:552
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:27
 msgid "Article Categories"
 msgstr "دسته‌بندی‌های مقاله"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:538
-#: src/Pmpr/Custom/Herfe/CTX/Medium.php:18
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:543
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:21
 msgid "Mediums"
 msgstr "رسانه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:569
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:574
 msgid "Magazine Metadata"
 msgstr "متادیتا‌های فصل‌نامه"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:583
 #, php-format
 msgid "Physical Medium (%s)"
 msgstr "نسخه چاپی (%s)"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:578
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:583
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:593
 msgid "Product"
 msgstr "محصول"
 
-#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:588
+#: src/Pmpr/Custom/Herfe/CPT/Magazine.php:593
 #, php-format
 msgid "This Issue Articles (%s)"
 msgstr "مقالات این شماره (%s)"
 
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:44
-#: src/Pmpr/Custom/Herfe/Page/VisualAuditory.php:22
-msgid "Visual & Auditory"
-msgstr "دیداری شنیداری"
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:45 src/Pmpr/Custom/Herfe/Setting.php:96
+msgid "Hashure"
+msgstr "هاشور"
 
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:47
-msgid "Status"
-msgstr "وضعیت"
-
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:49
-msgid "None"
-msgstr "هیچکدام"
-
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:50
-#: src/Pmpr/Custom/Herfe/Page/Visual.php:23
-msgid "Visual"
-msgstr "دیداری"
-
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:51
-#: src/Pmpr/Custom/Herfe/Page/Auditory.php:23
-msgid "Auditory"
-msgstr "شنیداری"
-
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:57
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:48
 msgid "Hashure Product ID"
 msgstr "شناسه محصول در هاشور"
 
-#: src/Pmpr/Custom/Herfe/CPT/Product.php:58
+#: src/Pmpr/Custom/Herfe/CPT/Product.php:49
 msgid ""
 "To insert the Hashure product ID (and not, for example, the screen product)."
 msgstr "جهت درج شناسه محصول هاشور (و نه مثلا محصول اکرانی)"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:27
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:29
 msgid "Article Category for products"
 msgstr "دسته‌بندی مقاله برای محصولات"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:141
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:144
 msgid "Frontend Title"
 msgstr "عنوان نمایشی"
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:142
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:145
 msgid "Leave empty if you want use default title."
 msgstr "اگر می‌خواهید از عنوان پیش‌فرض استفاده شود، این فیلد را خالی رها کنید."
 
-#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:146
+#: src/Pmpr/Custom/Herfe/CTX/ArticleCategory.php:149
 msgid "Render Priority"
 msgstr "ترتیب نمایش"
 
-#: src/Pmpr/Custom/Herfe/CTX/Medium.php:20
+#: src/Pmpr/Custom/Herfe/CTX/Medium.php:23
 msgid "Medium for magazines"
 msgstr "رسانه فصلنامه‌ها"
 
-#: src/Pmpr/Custom/Herfe/CTX/Tag.php:24
+#: src/Pmpr/Custom/Herfe/CTX/Tag.php:25
 msgid "Image"
 msgstr "تصویر"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:45
-#: src/Pmpr/Custom/Herfe/Setting.php:103
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:49
+#: src/Pmpr/Custom/Herfe/Setting.php:124
 msgid "View in Hashure"
 msgstr "مشاهده در هاشور"
 
-#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:59
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
 msgid "No response was received from Hashur, please try again."
 msgstr "پاسخی از هاشور دریافت نشد، لطفاً دوباره تلاش کنید."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:63
+#: src/Pmpr/Custom/Herfe/Hashure/Ajax.php:67
 msgid "It looks like your subscription has expired."
 msgstr "به نظر می‌رسد اشتراک شما به پایان رسیده است."
 
@@ -376,24 +357,24 @@ msgstr ""
 "قادر به ارتباط با سرویس هاشور نیستیم، لطفا اطلاعات کاربری که در%s  وارد "
 "کرده‌اید را بررسی کنید."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Product.php:31
-#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:85
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:32
+#: src/Pmpr/Custom/Herfe/Hashure/Subscription.php:86
 msgid "Connecting to hashure..."
 msgstr "در حال اتصال به هاشور..."
 
-#: src/Pmpr/Custom/Herfe/Hashure/Product.php:32
+#: src/Pmpr/Custom/Herfe/Hashure/Product.php:33
 msgid "Try Again"
 msgstr "تلاش مجدد"
 
-#: src/Pmpr/Custom/Herfe/Herfe.php:25
+#: src/Pmpr/Custom/Herfe/Herfe.php:31
 msgid "Herfe Custom"
 msgstr "کد سفارشی حرفه هنرمند"
 
-#: src/Pmpr/Custom/Herfe/Page/LatestMagazine.php:24
+#: src/Pmpr/Custom/Herfe/Page/LatestMagazine.php:17
 msgid "Latest Magazine"
 msgstr "آخرین فصلنامه‌"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:49
+#: src/Pmpr/Custom/Herfe/Setting.php:48
 msgid "Herfe Setting"
 msgstr "تنظیمات سفارشی"
 
@@ -422,34 +403,46 @@ msgstr ""
 "نوشته‌های وب‌نامه دسترسی داشته باشند."
 
 #: src/Pmpr/Custom/Herfe/Setting.php:75
-msgid "Hashure"
-msgstr "هاشور"
+msgid "Visual Auditory"
+msgstr "دیداری شنیداری"
 
 #: src/Pmpr/Custom/Herfe/Setting.php:77
+msgid "Category Configuration"
+msgstr "پیکربندی دسته"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:84
+msgid "Visual Product Category"
+msgstr "دسته محصول دیداری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:89
+msgid "Auditory Product Category"
+msgstr "دسته محصول شنیداری"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:98
 msgid "Hashure Configuration"
 msgstr "پیکربندی هاشور"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:80
+#: src/Pmpr/Custom/Herfe/Setting.php:101
 msgid "Authentication"
 msgstr "احراز هویت"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:84
+#: src/Pmpr/Custom/Herfe/Setting.php:105
 msgid "Username"
 msgstr "نام کاربری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:88
+#: src/Pmpr/Custom/Herfe/Setting.php:109
 msgid "Password"
 msgstr "گذرواژه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:93
+#: src/Pmpr/Custom/Herfe/Setting.php:114
 msgid "Hashure Products"
 msgstr "محصولات هاشوری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:97
+#: src/Pmpr/Custom/Herfe/Setting.php:118
 msgid "Message"
 msgstr "پیام"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:98
+#: src/Pmpr/Custom/Herfe/Setting.php:119
 msgid ""
 "This message show on top of hashure products single, for users that has not "
 "access to hashure videos."
@@ -457,138 +450,142 @@ msgstr ""
 "این پیام در بالای محصولات هاشوری، به کاربرانی که دسترسی لارم برای مشاهده "
 "ویدیو‌ها را ندارند، نمایش داده می‌شود."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:102
+#: src/Pmpr/Custom/Herfe/Setting.php:123
 msgid "Button Text"
 msgstr "متن دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:107
+#: src/Pmpr/Custom/Herfe/Setting.php:128
 msgid "Button Behavior"
 msgstr "رفتار دکمه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:108
+#: src/Pmpr/Custom/Herfe/Setting.php:129
 msgid "Open in Current Tab"
 msgstr "باز کردن در زبانه جاری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:109
+#: src/Pmpr/Custom/Herfe/Setting.php:130
 msgid "Open New Tab"
 msgstr "باز کردن در زبانه جدید"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:113
+#: src/Pmpr/Custom/Herfe/Setting.php:134
 msgid "Link to"
 msgstr "لینک به"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:114
+#: src/Pmpr/Custom/Herfe/Setting.php:135
 msgid "Play Movie"
 msgstr "پخش فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:115
+#: src/Pmpr/Custom/Herfe/Setting.php:136
 msgid "Movie Page"
 msgstr "صفحه فیلم"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:123
+#: src/Pmpr/Custom/Herfe/Setting.php:144
 msgid "Magazine Configuration"
 msgstr "پیکربندی فصلنامه"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:130
+#: src/Pmpr/Custom/Herfe/Setting.php:151
+msgid "Latest Magazine Page"
+msgstr "صفحه آخرین فصلنامه‌"
+
+#: src/Pmpr/Custom/Herfe/Setting.php:156
 msgid "Avoid Duplicate Data Entry"
 msgstr "پیشگیری از داده تکراری"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:131
+#: src/Pmpr/Custom/Herfe/Setting.php:157
 msgid ""
 "Check this item. if you want avoid duplicate issue number and article "
 "category assignment."
 msgstr ""
 "اگر می‌خواهید مانع ورود شماره و دسته‌بندی تکراری شوید، این گزینه را فعال کنید."
 
-#: src/Pmpr/Custom/Herfe/Setting.php:136
+#: src/Pmpr/Custom/Herfe/Setting.php:162
 msgid "Pagination"
 msgstr "صفحه‌بندی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:140
+#: src/Pmpr/Custom/Herfe/Setting.php:166
 msgid "Sidebar - Desktop Limit"
 msgstr "آیتم‌های سایدبار - دسکتاپ"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:145
+#: src/Pmpr/Custom/Herfe/Setting.php:171
 msgid "Sidebar - Mobile Limit"
 msgstr "آیتم‌های سایدبار - موبایل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:150
+#: src/Pmpr/Custom/Herfe/Setting.php:176
 msgid "Products  Limit"
 msgstr "محصولات"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:156
+#: src/Pmpr/Custom/Herfe/Setting.php:182
 msgid "Messages"
 msgstr "پیام‌ها"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:160
+#: src/Pmpr/Custom/Herfe/Setting.php:186
 msgid "Empty Single"
 msgstr "پیام خالی سینگل"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:164
+#: src/Pmpr/Custom/Herfe/Setting.php:190
 msgid "Empty Category"
 msgstr "پیام دسته‌بندی خالی"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:169
+#: src/Pmpr/Custom/Herfe/Setting.php:195
 msgid "Archive"
 msgstr "آرشیو"
 
-#: src/Pmpr/Custom/Herfe/Setting.php:173
+#: src/Pmpr/Custom/Herfe/Setting.php:199
 msgid "Physical Medium"
 msgstr "رسانه چاپی"
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:53
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:58
 msgid "Your email verified successfully."
 msgstr "ایمیل شما با موفقیت تایید شد."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:56
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:61
 msgid "Something wrong on verification email, please try again."
 msgstr "مشکلی در فرآیند تایید ایمیل به وجود آمده است، لطفا دوباره امتحان کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:60
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:156
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:65
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:165
 msgid "Your entered code is not correct."
 msgstr "کد وارد شده صحیح نیست."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:66
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:162
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:71
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:171
 #, php-format
 msgid "Code entered incorrect more than 5 times, %s."
 msgstr "کد بیش از 5 بار نادرست وارد شده است، %s."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:70
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:166
-#: src/Pmpr/Custom/Herfe/Verification/Common.php:163
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:75
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:175
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:164
 #, php-format
 msgid "Verification code expired, %s."
 msgstr "کد تأیید منقضی شده است، %s."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:78
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:174
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:83
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:183
 msgid "Verification Code"
 msgstr "کد تایید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:82
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:112
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:87
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:119
 msgid "Request is not from a logging user."
 msgstr "درخواست از سمت کاربر بدون سشن است."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:103
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:199
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:110
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:211
 msgid "New verification code send to your email."
 msgstr "کد تأیید جدیدی برای ایمیل شما ارسال شد."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:108
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:115
 msgid "You dont need email verification, please refresh the page."
 msgstr "شما نیازی به تایید ایمیل ندارید، لطفا صفحه را رفرش کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:178
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:208
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:187
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:220
 msgid ""
 "Your verification code is expired, use your email to reset your password."
 msgstr ""
 "کد تأیید شما منقضی شده است، از ایمیل خود برای بازنشانی رمز عبور استفاده کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:204
+#: src/Pmpr/Custom/Herfe/Verification/Ajax.php:216
 msgid "Something wrong, please refresh the page."
 msgstr "مشکلی وجود دارد، لطفاً صفحه را رفرش کنید."
 
@@ -601,130 +598,142 @@ msgstr "حساب کاربری شما تایید نشده است، لطفا اب�
 msgid "verify your account"
 msgstr "حساب کاربری خود را تایید کنید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Common.php:169
+#: src/Pmpr/Custom/Herfe/Verification/Common.php:170
 #, php-format
 msgid "The validity period of the code is until %s, Tehran time"
 msgstr "مدت اعتبار کد تا %s  به وقت تهران"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:32
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:33
 msgid "Verify Your Email Address"
 msgstr "آدرس ایمیل خود را تأیید کنید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:34
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:35
 #, php-format
 msgid "Verify Your Email Address on %s"
 msgstr "آدرس ایمیل خود را در %s تأیید کنید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:47
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:48
 msgid "Verify Reset Password"
 msgstr "تایید بازنشانی رمز عبور"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:49
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:50
 #, php-format
 msgid "Verify Reset Password on %s"
 msgstr "تأیید بازنشانی رمز عبور در %s"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:114
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:115
 msgid "Email Verification"
 msgstr "تایید ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:116
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:117
 #, php-format
 msgid "Enter below code on %s."
 msgstr "کد زیر را در سایت %s وارد کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:119
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:120
 msgid ""
 "Also, instead of using the above code, you can just click on the link below."
 msgstr ""
 "همچنین، به جای استفاده از کد فوق میتوانید تنها بر  روی لینک زیر کلیک کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:124
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:125
 msgid "Verify Email Now"
 msgstr "تایید ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Verification/Email.php:145
+#: src/Pmpr/Custom/Herfe/Verification/Email.php:146
 #, php-format
 msgid "You can use below code on %s to reset your password."
 msgstr "برای بازنشانی رمز عبور خود می توانید از کد زیر در %s استفاده کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:53
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:54
 msgid "Sing up email verification"
 msgstr "تایید ایمیل ثبت‌نام"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:83
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:84
 msgid "Password reset verification"
 msgstr "تأیید بازنشانی رمز عبور"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:97
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:98
 msgid "Confirm access to the email address"
 msgstr "تایید دسترسی به آدرس ایمیل"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:111
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:112
 #, php-format
 msgid "%s-digits code"
 msgstr "کد %s رقمی"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:112
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:113
 #, php-format
 msgid "Enter %s-digits code"
 msgstr "کد %s رقمی را وارد کنید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:117
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:118
 msgid "Verify Code"
 msgstr "تأیید کد"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:126
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:128
 #, php-format
 msgid "A %s-digit code was sent to the email address below."
 msgstr "یک کد %s رقمی به آدرس ایمیل زیر ارسال شد."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:129
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:133
 msgid "Didn't receive an email?"
 msgstr "ایمیلی دریافت نکردید؟"
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:172
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:176
 msgid "Something is wrong, please refresh page."
 msgstr "مشکلی به وجود آمده است، لطفا صفحه را رفرش کنید."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:173
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:177
 msgid "Entered code is not valid."
 msgstr "کد وارد شده معتبر نیست."
 
-#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:187
+#: src/Pmpr/Custom/Herfe/Verification/Frontend.php:191
 msgid "Send new code"
 msgstr "ارسال کد جدید"
 
-#: src/Pmpr/Custom/Herfe/Verification/Verification.php:35
-#: src/Pmpr/Custom/Herfe/Verification/Verification.php:59
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:37
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:61
 msgid "Your account verified successfully."
 msgstr "حساب شما با موفقیت تأیید شد."
 
-#: src/Pmpr/Custom/Herfe/Verification/Verification.php:63
+#: src/Pmpr/Custom/Herfe/Verification/Verification.php:65
 msgid "Your account already verified."
 msgstr "حساب شما قبلاً تأیید شده است."
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:100
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:103
 #, php-format
 msgid "Field %s is required!"
 msgstr "فلید %s ضروری است!"
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:111
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:114
 #, php-format
 msgid "Please enter at least %s characters for %s."
 msgstr "لطفا حداقل %s کاراکتر برای فیلد %s وارد کنید."
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:117
+#: src/Pmpr/Custom/Herfe/Woocommerce/Account.php:120
 msgid "Please enter a valid phone number."
 msgstr "لطفا یک شماره تلفن معتبر وارد کنید."
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:106
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:109
 msgid "Postcode"
 msgstr "کد پستی"
 
-#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:107
+#: src/Pmpr/Custom/Herfe/Woocommerce/Order.php:110
 msgid "Customer Note"
 msgstr "توضیحات تکمیلی"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "None"
+#~ msgstr "هیچکدام"
+
+#~ msgid "Visual"
+#~ msgstr "دیداری"
+
+#~ msgid "Auditory"
+#~ msgstr "شنیداری"
 
 #~ msgid "Firstname"
 #~ msgstr "نام"
@@ -773,9 +782,6 @@ msgstr "توضیحات تکمیلی"
 
 #~ msgid "Play"
 #~ msgstr "پخش"
-
-#~ msgid "Product Category"
-#~ msgstr "دسته محصول"
 
 #~ msgid "Hashure Metadata"
 #~ msgstr "متادیتا‌های هاشور"
