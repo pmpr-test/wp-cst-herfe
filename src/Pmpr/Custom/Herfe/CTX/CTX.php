@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c4250514df             |
+    |             694c4d850d159             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\CTX; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Custom\Herfe\Container; use WP_Query; class CTX extends Container { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu('init', [$this, 'aucgawuuimsuowag'], PHP_INT_MAX)->qcsmikeggeemccuu('wp_head', [$this, 'ugaoiaoewqqcuwco'], PHP_INT_MAX); } public function kgquecmsgcouyaya() { $this->cecaguuoecmccuse('pre_get_posts', [$this, 'aqckigkcgmuiiygy']); } public function mameiwsayuyquoeq() { Tag::symcgieuakksimmu(); Medium::symcgieuakksimmu(); ArticleCategory::symcgieuakksimmu(); } public function ugaoiaoewqqcuwco() { $mumyimcwkaemyyue = $this->uwkmaywceaaaigwo()->owicscwgeuqcqaig(); if ($mumyimcwkaemyyue->esqicqsuigywkaqw() && ($mumyimcwkaemyyue->ocwoeosukggumggw() || $mumyimcwkaemyyue->sgayqmgoigoseaoo())) { $this->caokeucsksukesyo()->kugiyqykwaskawsc()->ugwguyikugkemaqc(); } } public function aqckigkcgmuiiygy($gqgemcmoicmgaqie) { if ($gqgemcmoicmgaqie instanceof WP_Query && $gqgemcmoicmgaqie->is_tax() && $this->caokeucsksukesyo()->owicscwgeuqcqaig()->syukqeyowauuucwi()) { $gqgemcmoicmgaqie->set(Constants::awkcoioakcaougmq, Constants::omaksceqmigeaoko); $gqgemcmoicmgaqie->set(Constants::gqiasegggowomgie, Constants::kumuoysauoagaiiy); } return $gqgemcmoicmgaqie; } public function aucgawuuimsuowag() { $this->uwkmaywceaaaigwo()->yyoeeseewqmmyaee()->unregister(Constants::eycyqsgokewiswum); } }
