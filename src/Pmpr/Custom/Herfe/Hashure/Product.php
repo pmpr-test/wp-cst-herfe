@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c4d850d159             |
+    |             694c84690f9d7             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\Hashure; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Custom\Herfe\Setting; class Product extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu('wp', [$this, 'enqueue'])->qcsmikeggeemccuu('woocommerce_before_single_product', [$this, 'giecswackwmwwsky'], 0); } public function enqueue() { $umkkkaqkwugkemce = $this->caokeucsksukesyo()->ayueggmoqeeukqmq()->iooowgsqoyqseyuu(); if ($this->qmoswyyemykyycko($umkkkaqkwugkemce)) { $meakksicouekcgoe = $this->caokeucsksukesyo()->usugyumcgeaaowsi(); $meakksicouekcgoe->yawoscugkyysowie($meakksicouekcgoe->owygwqwawqoiusis($this, 'hashure', 'hashure.js')->okawmmwsiuauwsiu()); $meakksicouekcgoe->qkqeooqcomucuwyk($this, 'hashure', ['ajax' => ['get_hashure_product_url' => Ajax::ygcuoksumkuwmaqe], 'translations' => ['connecting' => __('Connecting to hashure...', PR__CST__HERFE), 'try_again' => __('Try Again', PR__CST__HERFE)]]); } } public function giecswackwmwwsky() { global $product; if ($this->qmoswyyemykyycko($product) && !$this->ysuoseskooqusqua()) { $uamcoiueqaamsqma = $this->weysguygiseoukqw(Setting::gwmieqaoaqwcawse, ''); if ($uamcoiueqaamsqma) { $this->uwkmaywceaaaigwo()->wikusamwomuogoau()->yiggueaiwiygoiyi($uamcoiueqaamsqma, Constants::mgowaqweusymwoqu); } } } }
