@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c84690f9d7             |
+    |             694c8548502fe             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\Advertise; use Pmpr\Common\Foundation\Interfaces\Constants; class Media extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu('add_attachment', [$this, 'gwkmkwyeoiegayca']); } public function kgquecmsgcouyaya() { $this->cecaguuoecmccuse('ajax_query_attachments_args', [$this, 'iyoiieyooqkqwmie']); } public function gwkmkwyeoiegayca($aokagokqyuysuksm) { if ($aigsgikoosikweqa = $this->iwiyggkewesgioys()) { $this->caokeucsksukesyo()->ayueggmoqeeukqmq()->ksmqawcowkmegigw(Advertise::kueeagiqseeaeogs, $aigsgikoosikweqa, $aokagokqyuysuksm); } } public function iyoiieyooqkqwmie($gqgemcmoicmgaqie) { if ($this->ucgqwmuigscaceuu()) { $gqgemcmoicmgaqie[Constants::cuoyscoiacswuauq] = [[Constants::ascagqcquwgmygkm => Advertise::kueeagiqseeaeogs, Constants::ciyoccqkiamemcmm => $this->iwiyggkewesgioys(), Constants::ykemsyouoqyoaysg => '=']]; } return $gqgemcmoicmgaqie; } }

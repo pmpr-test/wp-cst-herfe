@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c84690f9d7             |
+    |             694c8548502fe             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\Verification; class Registration extends Common { public function wigskegsqequoeks() { $this->qcsmikeggeemccuu('password_reset', [$this, 'aoiowgmiwuqkisuq'], 10, 2); } public function aoiowgmiwuqkisuq($mkucggyaiaukqoce) { $this->kwsaiaucmouiaaya($mkucggyaiaukqoce); } }
