@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c8548502fe             |
+    |             6990794a2bc84             |
     |_______________________________________|
 */
  namespace Pmpr\Custom\Herfe\Page; use Pmpr\Common\Foundation\Frontend\Page; use Pmpr\Custom\Herfe\Setting; class LatestMagazine extends Page { public function qiccuiwooiquycsg() { $this->wegcaymyqqoyewmw('latest-magazine')->gswweykyogmsyawy(__('Latest Magazine', PR__CST__HERFE))->wmsaakuicamguoam($this->weysguygiseoukqw(Setting::ouosmmwowoocgiei)); parent::qiccuiwooiquycsg(); } }
